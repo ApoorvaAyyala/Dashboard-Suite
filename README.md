@@ -21,7 +21,8 @@ filters/slicers, data visualization
 
 Dashboard preview: ![Ecommerce Sales Analysis Dashboard](Images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
 
-WorkBook: `WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx`
+WorkBook: [Download Workbook](WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx)
+
 
 ### 2. Vrinda Store Annual Report Dashboard --- 2022
 An Excel dashboard focused on understanding annual store sales, customer
@@ -37,7 +38,7 @@ visualization
 
 Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda%20Store%20Data%20Analysis%20DashBoard.png)
 
-WorkBook: `WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx`
+WorkBook: [Download Workbook](WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx)
 
 
 👩‍💻 About Me

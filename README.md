@@ -38,9 +38,8 @@ Dashboard preview: ![Dashboard Name](images/your-dashboard-image.png)
 WorkBook: `dashboards/your-dashboard-file.xlsx`
 
 
-.
 👩‍💻 About Me
-Apoorva Ayyala
+Apoorva Ayyalasomayajula
 M.Tech in Data Science | Aspiring Data Analyst
-Interested in data analytics, business intelligence, Python, SQL, Excel & data visualization.
+Interested in data engineering, data analytics, business intelligence, Python, SQL, Excel & data visualization.
 -

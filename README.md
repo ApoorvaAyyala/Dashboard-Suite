@@ -19,7 +19,7 @@ region, and customer segment
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, dashboard
 filters/slicers, data visualization
 
-Dashboard preview: ![Ecommerce Sales Analysis Dashboard](images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
+Dashboard preview: ![Ecommerce Sales Analysis Dashboard](Images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
 
 WorkBook: `WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx`
 

@@ -20,7 +20,8 @@ region, and customer segment
 filters/slicers, data visualization
 
 Dashboard preview: ![Ecommerce Sales Analysis Dashboard](images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
-WorkBook: `dashboards/your-dashboard-file.xlsx`
+
+WorkBook: `WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx`
 
 ### 2. Vrinda Store Annual Report Dashboard --- 2022
 An Excel dashboard focused on understanding annual store sales, customer
@@ -34,8 +35,9 @@ Interactive filters for channel, month, and category
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, slicers, data
 visualization
 
-Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda Store Data Analysis DashBoard.png)
-WorkBook: `dashboards/your-dashboard-file.xlsx`
+Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda%20Store%20Data%20Analysis%20DashBoard.png)
+
+WorkBook: `WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx`
 
 
 👩‍💻 About Me

@@ -19,7 +19,7 @@ region, and customer segment
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, dashboard
 filters/slicers, data visualization
 
-Dashboard preview: ![Dashboard Name](images/your-dashboard-image.png)
+Dashboard preview: ![Ecommerce Sales Analysis Dashboard](Images/Ecommerce Sales Analysis Dashboard.png)
 WorkBook: `dashboards/your-dashboard-file.xlsx`
 
 ### 2. Vrinda Store Annual Report Dashboard --- 2022
@@ -34,7 +34,7 @@ Interactive filters for channel, month, and category
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, slicers, data
 visualization
 
-Dashboard preview: ![Dashboard Name](images/your-dashboard-image.png)
+Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda Store Data Analysis DashBoard.png)
 WorkBook: `dashboards/your-dashboard-file.xlsx`
 
 

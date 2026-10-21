@@ -1,11 +1,11 @@
-# Excel-Dashboards
+# Dashboard Suite
 A collection of interactive dashboards created using Microsoft Excel to
 explore business data, track key performance indicators (KPIs), and
 communicate insights through data visualization.
 
 This repo contains dashboards I've designed as part of my Internship at Analytics Career Connect as a Data Science &amp; Business Analyst Intern
 
-## 📁 Projects
+## Excel Dashboards
 ### 1. E-Commerce Sales Analysis Dashboard
 An Excel dashboard designed to analyze sales performance, profitability,
 product categories, subcategories, and regional trends.
@@ -40,6 +40,8 @@ Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda%20Store
 
 WorkBook: [Download Workbook](WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx)
 
+## Google Sheets Dashboards
+### 1. Dashboard
 
 👩‍💻 About Me
 Apoorva Ayyalasomayajula

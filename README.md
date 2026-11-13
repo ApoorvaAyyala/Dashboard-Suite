@@ -93,7 +93,7 @@ An interactive Google Sheets dashboard designed to analyze IndiGo Airlines' flig
 
 
 
-### 6. Recruitment Analytics Dashboard
+### 2. Recruitment Analytics Dashboard
 
 An interactive Google Sheets dashboard developed to analyze recruitment performance and hiring trends from February to October 2026. The dashboard provides insights into application sources, recruiter productivity, candidate progression, hiring outcomes, and time-to-hire metrics. It helps evaluate recruitment efficiency and identify opportunities to improve the hiring process.
 

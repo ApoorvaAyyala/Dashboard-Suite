@@ -4,6 +4,7 @@ A collection of interactive dashboards created using Microsoft Excel to explore 
 This repo contains dashboards I've designed as part of my Internship at Analytics Career Connect as a Data Science &amp; Business Analyst Intern
 
 ## Excel Dashboards
+
 ### 1. E-Commerce Sales Analysis Dashboard
 An Excel dashboard designed to analyze sales performance, profitability, product categories, subcategories, and regional trends.
 
@@ -17,7 +18,8 @@ An Excel dashboard designed to analyze sales performance, profitability, product
 
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, dashboard filters/slicers, data visualization
 
-**Dashboard preview:** ![Ecommerce Sales Analysis Dashboard](Images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
+**Dashboard preview:** 
+![Ecommerce Sales Analysis Dashboard](Images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
 
 **WorkBook:** [Download Excel Workbook](WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx)
 
@@ -36,7 +38,8 @@ An Excel dashboard focused on understanding annual store sales, customer demogra
 
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, slicers, data visualization
 
-Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda%20Store%20Data%20Analysis%20DashBoard.png)
+**Dashboard preview:**
+![Vrinda Store Data Analysis DashBoard](Images/Vrinda%20Store%20Data%20Analysis%20DashBoard.png)
 
 WorkBook: [Download Excel Workbook](WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx)
 
@@ -57,7 +60,8 @@ An interactive Excel dashboard designed to analyze bank loan applications, funde
 
 **Tools:** Microsoft Excel, PivotTables, PivotCharts, slicers, KPI tracking, financial data analysis, data visualization
 
-**Dashboard preview:** ![Finance Bank Loan Analysis Dashboard](Images/Finance%20Bank%20Loan%20Analysis%20Dashboard.png)
+**Dashboard preview:** 
+![Finance Bank Loan Analysis Dashboard](Images/Finance%20Bank%20Loan%20Analysis%20Dashboard.png)
 
 **WorkBook:** [Download Excel Workbook](WorkBooks/Finance%20Bank%20Loan%20Analysis%20Dashboard.xlsx)
 
@@ -83,7 +87,6 @@ An interactive Google Sheets dashboard designed to analyze IndiGo Airlines' flig
 **Tools:** Google Sheets, charts, formulas, interactive dropdown filters, KPI tracking, operational data analysis, data visualization
 
 **Dashboard preview:**
-
 ![Indigo Airlines Operations Analysis Dashboard](Images/Indigo_Operation_Analysis_Dashboard.png)
 
 **WorkBook:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1PnqUTreRFam3paqre9dOX5eGuuALb_Z5/edit?usp=sharing)
@@ -110,7 +113,6 @@ An interactive Google Sheets dashboard developed to analyze recruitment performa
 **Tools:** Google Sheets, charts, interactive filters, KPI tracking, recruitment analytics, data visualization, business reporting
 
 **Dashboard preview:**
-
 ![Recruitment Analytics Dashboard](Images/Recruitment_Analytics_Dashboard.png)
 
 **WorkBook:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1TXA7XV1du-mzfBfQNaZu-d4VOf1EpjHHWZgnkK6B-J4/edit?usp=sharing)

@@ -63,7 +63,58 @@ An interactive Excel dashboard designed to analyze bank loan applications, funde
 
 
 ## Google Sheets Dashboards
-### 1. Dashboard
+
+### 1. Indigo Airlines Operations Analysis Dashboard
+
+An interactive Google Sheets dashboard designed to analyze IndiGo Airlines' flight operations at Pune International Airport (PNQ). The dashboard provides insights into flight schedules, seat capacity, route performance, departure patterns, fleet utilization, passenger load factors, and estimated daily revenue. It combines operational reporting with strategic business insights to support airline capacity planning and network performance analysis.
+
+**Key analysis areas**
+
+- Daily flight departures and total seat capacity
+- Average load factor and estimated daily revenue
+- Domestic vs. international flight distribution
+- Route-wise flight volume and destination analysis
+- Interactive route explorer and flight lookup
+- Departure wave analysis across morning, afternoon, evening, and night
+- Flight schedule analysis by destination, aircraft, departure time, and duration
+- Fleet utilization and aircraft capacity analysis
+- Strategic insights on revenue concentration, fleet strategy, and network expansion
+
+**Tools:** Google Sheets, charts, formulas, interactive dropdown filters, KPI tracking, operational data analysis, data visualization
+
+**Dashboard preview:**
+
+![Indigo Airlines Operations Analysis Dashboard](Images/Indigo_Operation_Analysis_Dashboard.png)
+
+**WorkBook:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1PnqUTreRFam3paqre9dOX5eGuuALb_Z5/edit?usp=sharing)
+
+
+
+### 6. Recruitment Analytics Dashboard
+
+An interactive Google Sheets dashboard developed to analyze recruitment performance and hiring trends from February to October 2026. The dashboard provides insights into application sources, recruiter productivity, candidate progression, hiring outcomes, and time-to-hire metrics. It helps evaluate recruitment efficiency and identify opportunities to improve the hiring process.
+
+**Key analysis areas**
+
+- Total job applications, hires, and joined candidates
+- Overall recruitment hire rate
+- Average time to hire (days)
+- Applications by recruitment source, including LinkedIn, employee referrals, college portals, and company website
+- Monthly application trends
+- Recruiter-wise performance analysis
+- Candidate joining status distribution
+- Candidate stage distribution across Applied, Assessment, Hired, Interview, Offer, Rejected, and Screening
+- Role-wise recruitment analysis for Business Analyst Intern, Data Analyst Intern, Junior Data Analyst, and MIS Executive
+- Interactive filters for job role, application source, recruiter, and applied date
+
+**Tools:** Google Sheets, charts, interactive filters, KPI tracking, recruitment analytics, data visualization, business reporting
+
+**Dashboard preview:**
+
+![Recruitment Analytics Dashboard](Images/Recruitment_Analytics_Dashboard.png)
+
+**WorkBook:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1TXA7XV1du-mzfBfQNaZu-d4VOf1EpjHHWZgnkK6B-J4/edit?usp=sharing)
+
 
 
 👩‍💻 About Me

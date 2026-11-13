@@ -19,7 +19,7 @@ An Excel dashboard designed to analyze sales performance, profitability, product
 
 **Dashboard preview:** ![Ecommerce Sales Analysis Dashboard](Images/Ecommerce%20Sales%20Analysis%20Dashboard.png)
 
-**WorkBook:** [Download Workbook](WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx)
+**WorkBook:** [Download Excel Workbook](WorkBooks/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx)
 
 
 ### 2. Vrinda Store Annual Report Dashboard --- 2022
@@ -38,7 +38,7 @@ An Excel dashboard focused on understanding annual store sales, customer demogra
 
 Dashboard preview: ![Vrinda Store Data Analysis DashBoard](Images/Vrinda%20Store%20Data%20Analysis%20DashBoard.png)
 
-WorkBook: [Download Workbook](WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx)
+WorkBook: [Download Excel Workbook](WorkBooks/Vrinda%20Store%20Data%20Analysis%20DashBoard.xlsx)
 
 
 ### 3. Finance Bank Loan Analysis Dashboard
@@ -59,7 +59,7 @@ An interactive Excel dashboard designed to analyze bank loan applications, funde
 
 **Dashboard preview:** ![Finance Bank Loan Analysis Dashboard](Images/Finance%20Bank%20Loan%20Analysis%20Dashboard.png)
 
-**WorkBook:** [Download Workbook](WorkBooks/Finance%20Bank%20Loan%20Analysis%20Dashboard.xlsx)
+**WorkBook:** [Download Excel Workbook](WorkBooks/Finance%20Bank%20Loan%20Analysis%20Dashboard.xlsx)
 
 
 ## Google Sheets Dashboards
@@ -116,8 +116,14 @@ An interactive Google Sheets dashboard developed to analyze recruitment performa
 **WorkBook:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1TXA7XV1du-mzfBfQNaZu-d4VOf1EpjHHWZgnkK6B-J4/edit?usp=sharing)
 
 
+## Power BI Dashboards
+
+### 1. King Koli's Cricket Analysis
+
 
 👩‍💻 About Me
+-
+
 Apoorva Ayyalasomayajula
 M.Tech in Data Science | Aspiring Data Analyst
 Interested in data engineering, data analytics, business intelligence, Python, SQL, Excel & data visualization.

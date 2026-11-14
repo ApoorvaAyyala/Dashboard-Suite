@@ -150,7 +150,7 @@ An interactive Power BI dashboard designed to analyze Virat Kohli's internationa
 👩‍💻 About Me
 -
 
-Apoorva Ayyalasomayajula
+Apoorva Ayyalasomayajula ~ 
 M.Tech in Data Science | Aspiring Data Analyst
-Interested in data engineering, data analytics, business intelligence, Python, SQL, Excel & data visualization.
+Interested in data engineering, data analytics, business intelligence, Python, SQL, Excel, Power BI & data visualization.
 -

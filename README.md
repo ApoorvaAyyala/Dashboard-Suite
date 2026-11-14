@@ -120,7 +120,31 @@ An interactive Google Sheets dashboard developed to analyze recruitment performa
 
 ## Power BI Dashboards
 
-### 1. King Koli's Cricket Analysis
+### 1. Virat Kohli Cricket Career Analysis Dashboard
+
+An interactive Power BI dashboard designed to analyze Virat Kohli's international cricket career from 2008 to 2022 across T20, ODI, and Test formats. The dashboard provides insights into batting performance, total runs, centuries, half-centuries, highest scores, and opponent-wise performance. It uses interactive visualizations to explore career statistics and identify performance trends over time.
+
+**Key analysis areas**
+
+- Total career runs and highest individual score
+- Total centuries (100s) and half-centuries (50s)
+- Batting performance and key career statistics
+- Format-wise performance across T20, ODI, and Test cricket
+- Runs scored against different international opponents
+- Year-wise batting performance and run trends
+- Team-wise performance distribution
+- Interactive filters to explore performance across different career periods
+
+**Tools:** Microsoft Power BI, DAX (Data Analysis Expressions), Data Modeling, Calculated Columns, Measures, Calendar Table, Interactive Slicers, Data Visualization
+
+**Dashboard preview:**
+
+![Virat Kohli Cricket Analysis Dashboard](Images/Kohli%20Cricket%20Analysis%20Dashboard.png)
+
+**Power BI Dashboard:** [Download PBIX File](WorkBooks/King%20Kohli%20BI%20Dashboard.pbix)
+
+**Raw Dataset:** [Download CSV Dataset](WorkBooks/7%20Virat%20Kohli%20data%20PowerBI.csv)
+
 
 
 👩‍💻 About Me
